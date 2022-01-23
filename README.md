@@ -18,3 +18,6 @@ The admin has access to:
 -Issue Details: It is used to see the detail of books issued either by Book Number or Student's Admission Number:
 1.Book Number tells about all the students who have issued that book.
 2.Student's admission number tell all the books issued by that student.
+
+Note: A book Cannot be issued if there are no more copies available and  a student can only issue 1 copy of a book and at max 3 books at a time. A book can only be issued for 15 days at once. After that it needs to be  re-issued. If the book is deposited after 15 days of issue, a fine is imposed  on per day basis.
+
